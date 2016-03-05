@@ -1,0 +1,28 @@
+name: rcx
+favicon: null
+layout_spectrum: 0.8720018989406526
+typography_spectrum: 0.1555298985913396
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.015843534842133522
+  lightness: 0.46253593312576413
+  saturation: 0.7130366894416511
+  rhythmicContrast: 0.2887635980732739
+purpose: []
